@@ -1,6 +1,6 @@
 <?php
 // loen sisse konfiguratsioonifaili
-    require_once "../config.php";
+    require_once "../../config.php";
 	//echo $server_user_name
 //echo $stmt naitab errorit
     $author_name = "Vanessa Kalavus";
